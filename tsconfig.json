@@ -4,6 +4,5 @@
     "lib": ["ES2015"],
     "module": "CommonJS",
     "outDir": "./dist"
-  },
-  "include": ["./src"]
+  }
 }
